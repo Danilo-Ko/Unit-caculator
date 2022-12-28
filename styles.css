@@ -70,10 +70,12 @@ h2 {
         height: 33px;
         margin: 15px;
         text-align:center;
+        align-items:center;
     }
     input, select {
         font-size: 20px;
         text-align: center;
+        
     }
     h2 {
         font-size: 30px;
