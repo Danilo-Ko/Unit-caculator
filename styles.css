@@ -69,6 +69,7 @@ h2 {
         width: 124px;
         height: 33px;
         margin: 15px;
+        text-align:center;
     }
     input, select {
         font-size: 20px;
